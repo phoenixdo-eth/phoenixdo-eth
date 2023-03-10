@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phoenix
-- 💻 I’m interested in Solidity, React, and ML 
-- 📌 I’m currently learning how to build smart contracts
-- 🔗 I’m looking to collaborate on web3 projects
+- 💻 I’m interested in SwiftUI, Solidity, React, and ML 
+- 📌 I’m currently learning starting a new company!
+- 🔗 I’m happy to talk about my experience 
 - 📫 How to reach me @phoenixdo77 on Twitter
 
 <!---
