@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phoenix
-- 💻 I’m interested in SwiftUI, Solidity, React, and ML 
-- 📌 I’m currently learning starting a new company!
+- 💻 I’m freaking love SwiftUI and ML
+- 📌 Download Fitted on the App Store
 - 🔗 I’m happy to talk about my experience 
 - 📫 How to reach me @phoenixdo77 on Twitter
 
