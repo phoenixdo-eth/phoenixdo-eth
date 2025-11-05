@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phoenix
-- 💻 I’m freaking love SwiftUI and ML
-- 📌 Download Fitted on the App Store
-- 🔗 I’m happy to talk about my experience 
+- 💻 I can build anything 
+- 📌 www.manifestcopia.com
+- 🔗 Always happy to chat
 - 📫 How to reach me @phoenixdo77 on Twitter
 
 <!---
