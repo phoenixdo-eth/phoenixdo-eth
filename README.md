@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phoenix
 - 💻 I can build anything 
-- 📌 www.manifestcopia.com
+- 📌 www.tryera.co
 - 🔗 Always happy to chat
 - 📫 How to reach me @phoenixdo77 on Twitter
 
